@@ -84,7 +84,7 @@ self.conv3 = nn.Sequential(nn.Linear(64, 1))
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/你的用户名/Tetris-DQN.git
+git clone https://github.com/ar3m1s-tju/Tetris-DQN.git
 cd Tetris-DQN
 ```
 
